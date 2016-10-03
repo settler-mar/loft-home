@@ -1,2 +1,2 @@
 # Список учеников
-1. [Максим Матюхин](student/Matyhin.md) 
+1. [Максим Матюхин](students/Matyhin.md) 
