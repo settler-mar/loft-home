@@ -7,7 +7,7 @@
 6. [Корепанов Иван](students/Korepanov.md)
 7. [Сергей Андрощук](students/Androshyk.md)
 8. [Елизавета Овинова](students/Ovinova.md)
-9. [Рустам Ожукас](students/Rustam.md)
+9. [Рустам Ожукас](students/Ojukas.md)
 
 
 | Имя  | Результат  | Дата сдачи   |  Срок | Примечание |
