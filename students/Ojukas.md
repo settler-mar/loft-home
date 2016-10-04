@@ -1,4 +1,4 @@
-# Первая выпускная работа Рустама Ожукаса 
+# Первая выпускная работа Рустама Оюкаса 
 [Ссылка на хостинг](http://portfolio.it-group4you.com/)
  
 [Ссылка на гит](https://github.com/rustamojukas/portfolio-forest)
