@@ -14,6 +14,11 @@
 * Для чего пустой [div](https://yadi.sk/i/OHMdk-4BwB5XG)
 
 #### Страничка my works
+* В макете явно не [так](https://yadi.sk/i/a0eWjh-YwQk4L) и не [так](https://yadi.sk/i/00C9ZwZRwQkDh)
+* Не отрабатывают [кнопки](https://yadi.sk/i/OT3WDGNJwQnZz) ты упустила одну деталь, подумай какую 
+* А зачем [здесь](https://yadi.sk/i/_aGFQIajwQnmc) еще span?  
+* Title находится в блоке [works](https://yadi.sk/i/Gh5xWdODwQphS) а где сам блок works ? 
+* Не правильно написала [свойство](https://yadi.sk/i/kZw1ka8gwQpsW)
 
 #### Страничка about
 * Социалки прижаты в [притык](https://yadi.sk/i/_JEgYky5wB5n3), в макете не так 
