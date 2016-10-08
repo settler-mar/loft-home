@@ -8,6 +8,7 @@
 7. [Сергей Андрощук](students/Androshyk.md)
 8. [Елизавета Овинова](students/Ovinova.md)
 9. [Рустам Оюкаса](students/Ojukas.md)
+10. [Сергей Павлов](students/Pavlov.md)
 
 
 | Имя  | Результат  | Дата сдачи   |  Срок | Примечание |
