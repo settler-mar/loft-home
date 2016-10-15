@@ -9,9 +9,6 @@
  
 ### Верстка
 #### Страничка welcome
-* Пиксель [перфект](https://yadi.sk/i/cwxs-sU_wB4Zy) 
-* Писать заглавными [буквами](https://yadi.sk/i/F6ENKHeywB56U) плохая практика 
-* Для чего пустой [div](https://yadi.sk/i/OHMdk-4BwB5XG)
 
 #### Страничка my works
 * В макете явно не [так](https://yadi.sk/i/a0eWjh-YwQk4L) и не [так](https://yadi.sk/i/00C9ZwZRwQkDh)
